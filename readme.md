@@ -14,4 +14,5 @@ https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html
 https://exoplanetarchive.ipac.caltech.edu/  
 https://www.eso.org/sci/data-access.html  
 https://www.sdss.org/  
+https://data.sdss.org/sas/  
 https://aladin.cds.unistra.fr/aladin.gml  
